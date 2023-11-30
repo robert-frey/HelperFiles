@@ -59,4 +59,4 @@ projections <- dplyr::left_join(data,data3,by="player_id")
 projections
 }
 
-steamer_projections()
+steamer <- steamer_projections()
