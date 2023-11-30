@@ -60,3 +60,5 @@ projections
 }
 
 steamer <- steamer_projections()
+
+rm(steamer_projections)
